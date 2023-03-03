@@ -1,0 +1,7 @@
+PyQt5
+
+from persiantools.jdatetime import JalaliDate
+
+from datetime import date, datetime
+
+import sqlite3
