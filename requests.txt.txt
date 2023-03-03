@@ -1,3 +1,0 @@
-PyQt5
-import QMediaPlayer, QMediaPlaylist
-pip install pygame
